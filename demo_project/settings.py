@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'users',
     'pages',
     'posts',
+    'payments',
 ]
 
 AUTH_USER_MODEL = 'users.CustomUser'
